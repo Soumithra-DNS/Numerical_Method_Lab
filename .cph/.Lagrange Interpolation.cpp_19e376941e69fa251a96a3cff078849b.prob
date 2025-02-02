@@ -1,0 +1,1 @@
+{"name":"Local: Lagrange Interpolation","url":"e:\\Code\\New code\\Numerical method lab\\Lagrange Interpolation.cpp","tests":[{"id":1738297888489,"input":"5\n-1 3\n0 -6\n3 39\n6 822\n7 1611\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Code\\New code\\Numerical method lab\\Lagrange Interpolation.cpp","group":"local","local":true}
